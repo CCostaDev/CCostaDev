@@ -19,7 +19,7 @@ I enjoy tinkering too, I’ve built things using Raspberry Pi, and I love learni
 
 - Currently learning Dutch
 - I love building things for myself
-- I don’t like coffee
+- I run on caffeine
 - **Hobbies**: gaming, anime, gym, and jumping into new project ideas
 
 <!--
